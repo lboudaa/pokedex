@@ -1,10 +1,37 @@
-# Vue 3 + TypeScript + Vite
+Pokémon Vue 3 Application
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue
-3 `<script setup>` SFCs, check out
-the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This is a Pokédex app covering the first generation of Pokémon.
 
-Learn more about the recommended Project Setup and IDE Support in
-the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+Prerequisites
 
-# pokedex WIP NODE22 
+    Node.js: Ensure you have Node.js version 22.0 or higher installed.
+
+Getting Started
+
+Install dependencies:
+
+    npm install
+
+Start the development server:
+
+    npm run dev
+
+Build for production:
+
+    npm run build
+
+Preview the production build:
+
+    npm run preview
+
+Lint the code:
+
+    npm run lint
+
+Format the code:
+
+    npm run format
+
+License
+
+This project is licensed under the MIT License.
