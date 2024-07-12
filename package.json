@@ -16,6 +16,7 @@
     "@fortawesome/fontawesome-free": "^6.5.2",
     "axios": "^1.7.2",
     "eslint-define-config": "^2.1.0",
+    "lodash.debounce": "^4.0.8",
     "pinia": "^2.1.7",
     "primeflex": "^3.3.1",
     "primeicons": "^7.0.0",
